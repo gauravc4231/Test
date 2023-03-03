@@ -1,4 +1,4 @@
-name: S3 Upload
+name: S3_Upload
 on:
   push:
     branches:
