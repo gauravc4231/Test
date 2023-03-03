@@ -16,4 +16,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ASIAYERNKFVRXS453NML
           AWS_SECRET_ACCESS_KEY: 0ldCVRb33hn+IyT9VWZjbMpagmJQh8UkNU2bLVMX
         run: |
-          aws s3 cp Database Technologies/NoSQL.txt s3a://gauravproject/kaggle/
+          aws s3 cp Database Technologies/NoSQL.txt s3://project2022dbdagroup3/Test/
