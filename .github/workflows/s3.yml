@@ -16,4 +16,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
-          aws s3 cp Database Technologies/NoSQL.txt s3://finalprojectdatagrp3/
+          aws s3 cp Database Technologies/NoSQL.txt s3://project2022dbdagroup3/Test/
